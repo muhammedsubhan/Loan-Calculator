@@ -1,3 +1,3 @@
 # Loan-Calculator
   Loan Calculator Live Link.
-https://6303a0fc8ee1271a529411f6--shimmering-jalebi-ed6fff.netlify.app/
+https://6303a1c2173d2e14ed9e74e1--joyful-marigold-0cd419.netlify.app/
